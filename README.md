@@ -2,6 +2,8 @@
 
 ### Tests from the Mint
 
+## Minte
+
 [Chrome Unistaller](https://github.com/wendyliga/mac_chrome_uninstaller)
 
 [OneDrive](brew install --cask onedrive)
